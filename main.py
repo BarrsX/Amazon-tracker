@@ -12,7 +12,6 @@ HEADERS = ({'User-Agent':
             'Accept-Language': 'en-US, en;q=0.5'})
 offer = []
 
-
 def tracker(url, TrackingPrice):
     res = requests.get(url, headers=HEADERS)
     soup = bs4.BeautifulSoup(res.content, features='lxml')
