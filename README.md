@@ -67,7 +67,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This tracker is used by entering a link a google sheets that contains a URL to the product you want to track and a target price. By using a website similar to [WayScript](https://wayscript.com/) you can automate the code and also set it to send you notifications, such as emails or texts, when the item is available below the target price. You can view [this link](https://dev.to/sunilaleti/building-an-amazon-price-tracker-with-python-and-wayscript-ii1) to view more information and the orignal code that mine is based on.
+This tracker is used by entering a link a google sheets that contains a URL to the product you want to track and a target price. By using a website similar to [WayScript](https://wayscript.com/) you can automate the code and also set it to send you notifications, such as emails or texts, when the item is available below the target price. You can view [this link](https://dev.to/sunilaleti/building-an-amazon-price-tracker-with-python-and-wayscript-ii1) to view more information and the orignal code that mine is based on. **Remove the outputs message at the end if you are not using WayScript.**
 
 ### Built With
 
